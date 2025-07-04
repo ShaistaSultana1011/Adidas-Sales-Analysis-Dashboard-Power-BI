@@ -35,6 +35,8 @@ Expand in high-performing cities/regions.
 Target apparel campaigns toward female buyers.
 Focus marketing efforts during seasonal peaks.
 
-🛠️ Tools UsedPower BI – for data visualization and dashboard development
+🛠️ Tools Used
+
+Power BI – for data visualization and dashboard development
 Excel/CSV – for dataset cleaning and preparation
 Kaggle – for sourcing the dataset
